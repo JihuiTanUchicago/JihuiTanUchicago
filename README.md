@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn-images-1.medium.com/max/1081/1*nCjsL5sP9enXvwHHfqOgYA.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -45,5 +41,9 @@
 ###
 
 <br clear="both">
+
+###
+
+<img align="right" height="150" src="https://cdn-images-1.medium.com/max/1081/1*nCjsL5sP9enXvwHHfqOgYA.gif"  />
 
 ###
