@@ -1,135 +1,49 @@
-<svg fill='none' viewBox='0 0 800 400' width='800' height='400' xmlns='http://www.w3.org/2000/svg'>
-	<foreignObject width='100%' height='100%'>
-		<div xmlns='http://www.w3.org/1999/xhtml' style='height: 100%'>
-      <link rel="preconnect" href="https://fonts.gstatic.com"></link>
-      <link href="https://fonts.googleapis.com/css2?family=Dosis" rel="stylesheet"></link>
-			<style>
-        .text {
-          --positionX: .025em;
-          --positionY: .025em;
-          --spread: .15em;
-          --gh-background-light: #ffffff;
-          --gh-text-light: #24292e;
-          --gh-background-dark: #0d1117;
-          --gh-text-dark: #c9d1d9;
-          display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-          height: 100%;
-        }
+<h2 align="left">Hi 👋! My name is Jihui("Todd") Tan and I'm a student, from University of Chicago</h2>
 
-        h1, h2 {
-          font-display: swap;
-					font-family:
-            'Dosis',
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-          text-transform: uppercase;
-          line-height: 1;
-          margin: 0;
-          padding: 0;
-          text-align: center;
-        }
+###
 
-        h1 {
-          font-size: clamp(6rem, calc(4vw + 4vh), 7.5rem);
-          font-weight: bold;
-          margin-bottom: 1rem;
-        }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-        h2 {
-          font-size: clamp(3rem, calc(2vw + 2vh), 4rem);
-          font-weight: bold;
-        }
+###
 
-        @keyframes pulse {
-          0%, 100% {
-            text-shadow:
-              calc(1 * var(--positionX)) calc(1 * var(--positionY)) calc(1 * var(--spread)) yellow,
-              calc(1.5 * var(--positionX)) calc(1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
-              calc(2 * var(--positionX)) calc(2 * var(--positionY)) calc(3 * var(--spread)) cyan
-            ;
-          }
-          
-          25% {
-            text-shadow:
-              calc(-1 * var(--positionX)) calc(1 * var(--positionY)) calc(1 * var(--spread)) yellow,
-              calc(-1.5 * var(--positionX)) calc(1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
-              calc(-2 * var(--positionX)) calc(2 * var(--positionY)) calc(3 * var(--spread)) cyan
-            ;
-          }
-          
-          50% {
-            text-shadow:
-              calc(-1 * var(--positionX)) calc(-1 * var(--positionY)) calc(1 * var(--spread)) yellow,
-              calc(-1.5 * var(--positionX)) calc(-1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
-              calc(-2 * var(--positionX)) calc(-2 * var(--positionY)) calc(3 * var(--spread)) cyan
-            ;
-          }
-          
-          75% {
-            text-shadow:
-              calc(1 * var(--positionX)) calc(-1 * var(--positionY)) calc(1 * var(--spread)) yellow,
-              calc(1.5 * var(--positionX)) calc(-1.5 * var(--positionY)) calc(2 * var(--spread)) magenta,
-              calc(2 * var(--positionX)) calc(-2 * var(--positionY)) calc(3 * var(--spread)) cyan
-            ;
-          }          
-        }
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-        .text {
-          background: var(--gh-background-light);
-          color: var(--gh-background-light);
-        }
+###
 
-        h1, h2 {
-          animation: pulse 2s cubic-bezier(.20,.40,.80,.60) infinite;
-        }
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-        h2 {
-          animation-direction: reverse;
-          animation-duration: 2.5s;
-        }
+###
 
-        @media (prefers-color-scheme: dark) {
-          .text {
-            background: var(--gh-background-dark);
-            color: var(--gh-background-dark);
-          }
-        }
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-        @media (prefers-reduced-motion) {
-          .text {
-            --positionX: .25em;
-            --positionY: .25em;
-            --spread: .5em;
-            text-shadow:
-              var(--positionX) var(--positionY) calc(1 * var(--spread)) yellow,
-              var(--positionX) var(--positionY) calc(2 * var(--spread)) magenta,
-              var(--positionX) var(--positionY) calc(3 * var(--spread)) cyan
-            ;
-          }
+###
 
-          h1, h2 {
-            animation: unset;
-          }
-        }
-			</style>
-			<div class='text'>
-        <h1 data-text="Jihui("Todd") Tan">Jihui("Todd") Tan</h1>
-        <h2 data-text="A Dude">A Dude</h2>
-        <!-- TODO: write a blog post about this and make this link to it-->
-			</div>
-    </div>
+<br clear="both">
 
-	</foreignObject>
-</svg>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
