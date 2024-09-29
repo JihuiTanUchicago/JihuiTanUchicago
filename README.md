@@ -32,7 +32,7 @@
 </div>
 
 ###
-<h2 align="left">Got an interesting startup idea? We could collaborate! Please reach me at:</h2>
+<h2 align="left">Please reach me at:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/jihui-tan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
